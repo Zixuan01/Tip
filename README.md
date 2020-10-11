@@ -1,6 +1,6 @@
-# Pre-work - Tip
+# Pre-work - Tip Calculator
 
-Tip is a tip calculator application for iOS.
+Tip Calculator is a tip calculator application for iOS.
 
 Submitted by: Zixuan Mao
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/aTEITjL.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
